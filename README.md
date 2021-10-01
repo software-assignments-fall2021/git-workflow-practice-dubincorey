@@ -6,4 +6,4 @@ I realize this isn't exactly an article like the instructions asked, but I figur
 
 I also **highly** recommend checking out this developer's other works in his [github](https://github.com/brunosimon/). He makes a ton of physics-based work that I think is really cool.
 
-Comment from **Alex**: WOW this website is amazing! This is such a fun way to explore your portfolio site and also showcase the front-end building skills the author has. I wonder in what language or framework this was written? 
+Comment from Alex: WOW this website is amazing! This is such a fun way to explore your portfolio site and also showcase the front-end building skills the author has. I wonder in what language or framework this was written? 
