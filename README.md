@@ -5,3 +5,5 @@ It's so impressive because I can't imagine how the developer was able to enable 
 I realize this isn't exactly an article like the instructions asked, but I figured this would be something unique that others would probably enjoy looking at as well.</p>
 
 I also **highly** recommend checking out this developer's other works in his [github](https://github.com/brunosimon/). He makes a ton of physics-based work that I think is really cool.
+
+Comment from Alex: WOW this website is amazing! This is such a fun way to explore your portfolio site and also showcase the front-end building skills the author has. I wonder in what language or framework this was written? 
